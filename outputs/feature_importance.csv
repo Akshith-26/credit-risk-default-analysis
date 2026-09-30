@@ -1,0 +1,16 @@
+feature,importance
+term_months,0.16369732
+int_rate,0.1552938
+grade_B,0.12794034
+grade_C,0.085307665
+grade_D,0.061047617
+home_ownership_MORTGAGE,0.04377467
+grade_E,0.03727272
+grade_F,0.035861988
+fico,0.033012606
+home_ownership_RENT,0.030026197
+loan_to_income,0.027653327
+verification_status_Source Verified,0.018018192
+dti,0.01620966
+purpose_small_business,0.01595693
+emp_years,0.009465131
