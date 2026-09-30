@@ -1,7 +1,4 @@
--- 01_clean.sql
--- Build an analysis-ready loans table from the raw (all-text) staging table.
--- Keeps only FINISHED loans (paid off or charged off) so every row has a known outcome,
--- and only fields known at the time of application (no payment history = no data leakage).
+
 CREATE OR REPLACE TABLE loans AS
 SELECT
     id,
